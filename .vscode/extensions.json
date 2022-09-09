@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "SonarSource.sonarlint-vscode",
+        "shd101wyy.markdown-preview-enhanced",
+        "Arjun.swagger-viewer",
+        "eamodio.gitlens",
+        "ms-python.vscode-pylance",
+        "ivangsa.asyncapi-preview"
+    ]
+}
